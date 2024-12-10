@@ -1,0 +1,1 @@
+ C:\\Users\\yegor\\source\\repos\\bous_pam_terminal\\.dart_tool\\flutter_build\\ae1abdc1914bde1c1695a5c25d262418\\native_assets.yaml: 
